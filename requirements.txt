@@ -1,9 +1,0 @@
-time
-seaborn
-pandas
-numpy
-matplotlib
-matplotlib.pyplot
-streamlit
-plotly.express
-yfinance
